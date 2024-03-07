@@ -1,7 +1,14 @@
 import javax.swing.*;
 
+/**
+ * Represents the main frame of the paint application.
+ * @author Toby Munyard
+ */
 public class PaintFrame extends JFrame{
     
+    /**
+     * Constructs a new PaintFrame and initializes its components.
+     */
     PaintFrame(){
         PaintPanel paintPanel = new PaintPanel();
         this.add(paintPanel);
@@ -13,3 +20,4 @@ public class PaintFrame extends JFrame{
         this.setLocationRelativeTo(null);
     }
 }
+
