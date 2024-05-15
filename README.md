@@ -3,8 +3,11 @@
 ### What is this?
 A pixel art editor created using the Java.swing associated libraries. Allows for the saving of images you create and includes a basic click tool for a single grid space and a paint tool. Also allows for enabling and disabling the grids.
 
-#### Pixel Art Example
-![Pixel Art Example](/Images/CreateAccount.png?raw=true "Pixel Art Example")
+#### Saved Image Example
+![Pixel Art Example](/PixelPaintExample.png?raw=true "Pixel Art Example")
+
+#### Work in Progress Image Example
+![Work in Progress Example](/panel_image.png?raw=true "Work in Progress Example")
 
  ### Why make this project?
  I was looking to expand the already existing code from my snake project as I felt there was a lot of potential with the gridded area and colouring of each block. I decided to pivot this existing code into the pixel art editor you see before you. It was a test of problem solving especially when it came to the bucket tool but I feel it was a great example of my programming skills.
